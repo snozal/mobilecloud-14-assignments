@@ -1,5 +1,5 @@
 # mobilecloud-14-assignments
-This two projects were part of the course Programming Cloud Services for Android Handheld Systems.
+These two projects were part of the course Programming Cloud Services for Android Handheld Systems.
 Many files were originally created by Dr. C. Jules White and can be found here: https://github.com/juleswhite/mobilecloud-14
 
 The goal of Asgn1-VideoUp was to create a web application that allows clients to upload videos to a server. The server allows clients to first upload a video's metadata (e.g., duration, etc.) and then to upload the actual binary data for the video. The server should support uploading video binary data with a multipart request.
